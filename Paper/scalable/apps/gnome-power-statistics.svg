@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 48 48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gnome-power-statistics.svg">
+  <metadata
+     id="metadata53">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview51"
+     showgrid="false"
+     inkscape:zoom="6.9140625"
+     inkscape:cx="21.468927"
+     inkscape:cy="24"
+     inkscape:window-x="49"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3764"
+       x1="1"
+       x2="47"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+      <stop
+         style="stop-color:#ffda59;stop-opacity:1"
+         id="stop7" />
+      <stop
+         offset="1"
+         style="stop-color:#ffe06d;stop-opacity:1"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g19">
+    <path
+       d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
+       style="fill:url(#linearGradient3764);fill-opacity:1"
+       id="path21" />
+  </g>
+  <g
+     id="g37">
+    <g
+       id="g39">
+      <!-- color: #ffe06d -->
+      <g
+         id="g41">
+        <path
+           d="m 21 12 l 0 2.25 l -3 0 l 0 21.75 l 12 0 l 0 -21.75 l -3 0 l 0 -2.25 m -5.246 0.754 l 4.5 0 l 0 2.25 l 3 0 l 0 20.25 l -10.5 0 l 0 -20.25 l 3 0 l 0 -2.25 m -0.004 0"
+           style="fill:#333;fill-opacity:1;stroke:none;fill-rule:nonzero"
+           id="path43" />
+        <path
+           d="m 18.344 26 l 11.281 0 l -0.102 10 l -11.18 -0.156 m 0 -9.844"
+           style="fill:#333;fill-opacity:1;stroke:none;fill-rule:nonzero"
+           id="path45" />
+      </g>
+    </g>
+  </g>
+</svg>

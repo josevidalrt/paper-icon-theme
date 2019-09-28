@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 48 48"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="kchmviewer.svg">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1321"
+     inkscape:window-height="744"
+     id="namedview27"
+     showgrid="false"
+     inkscape:zoom="5.9921875"
+     inkscape:cx="7.8598763"
+     inkscape:cy="27.058747"
+     inkscape:window-x="39"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="bg"
+       x2="0"
+       y1="1"
+       y2="47"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#7394bd"
+         offset="0"
+         id="stop7" />
+      <stop
+         style="stop-color:#658ab7"
+         offset="1"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <circle
+     style="opacity:1;fill:#6a8db9;fill-opacity:1;stroke:none"
+     id="path4157"
+     cx="24"
+     cy="24"
+     r="23.330378" />
+  <path
+     style="fill:#f9f9f9"
+     d="m24 8c-4.3898 0-10 1.3136-10 6.5 0 1.3807 1.1193 2.5 2.5 2.5s2.5011-1.1193 2.5-2.5c-0.00062-0.79276 0-0.13661 0-2 0-1.1073 2-2.5 5-2.5s5 2 5 4c0 5-6 5-6 15h2c0-8.64 9-8 9-15 0-4-5-6-10-6z"
+     id="path23" />
+  <ellipse
+     style="fill:#f9f9f9"
+     rx="3"
+     ry="2.5"
+     cy="35.5"
+     cx="24"
+     id="ellipse25" />
+</svg>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 48 48"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ninja-ide.svg">
+  <metadata
+     id="metadata41">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1321"
+     inkscape:window-height="744"
+     id="namedview39"
+     showgrid="false"
+     inkscape:zoom="11.984375"
+     inkscape:cx="22.539765"
+     inkscape:cy="24"
+     inkscape:window-x="39"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3764"
+       x2="47"
+       gradientUnits="userSpaceOnUse"
+       x1="1"
+       gradientTransform="matrix(0 -1 1 0 -.0000015 48)">
+      <stop
+         style="stop-color:#c3c3c3"
+         offset="0"
+         id="stop7" />
+      <stop
+         style="stop-color:#c3c3c3"
+         offset="1"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <path
+     style="opacity:.05"
+     d="m36.31 5c5.859 4.062 9.688 10.831 9.688 18.5 0 12.426-10.07 22.5-22.5 22.5-7.669 0-14.438-3.828-18.5-9.688 1.037 1.822 2.306 3.499 3.781 4.969 4.085 3.712 9.514 5.969 15.469 5.969 12.703 0 23-10.298 23-23 0-5.954-2.256-11.384-5.969-15.469-1.469-1.475-3.147-2.744-4.969-3.781zm4.969 3.781c3.854 4.113 6.219 9.637 6.219 15.719 0 12.703-10.297 23-23 23-6.081 0-11.606-2.364-15.719-6.219 4.16 4.144 9.883 6.719 16.219 6.719 12.703 0 23-10.298 23-23 0-6.335-2.575-12.06-6.719-16.219z"
+     id="path11" />
+  <path
+     style="opacity:.1"
+     d="m41.28 8.781c3.712 4.085 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.113 3.854 9.637 6.219 15.719 6.219 12.703 0 23-10.298 23-23 0-6.081-2.364-11.606-6.219-15.719z"
+     id="path13" />
+  <path
+     style="fill:url(#linearGradient3764)"
+     d="m24 1c12.703 0 23 10.297 23 23s-10.297 23-23 23-23-10.297-23-23 10.297-23 23-23z"
+     id="path17" />
+  <g
+     transform="translate(1,1)"
+     id="g19" />
+  <path
+     style="fill:#2d2d2d"
+     d="m24 11c-4 0-6 1-6 2.75v3.25h6v1h-9.25c-1.939 0-3.75 2-3.75 6s1.811 6 3.75 6h2.25v-3.5c0-1.662 1.338-3 3-3h7c1.662 0 3-1.338 3-3v-6.75c0-1.75-2-2.75-6-2.75z"
+     id="path25" />
+  <path
+     style="fill:#2d2d2d"
+     d="m23.997 37c4 0 6-1 6-2.75v-3.25h-6v-1h9.2495c1.939 0 3.753-2 3.753-6s-1.814-6-3.753-6h-2.249v3.5c0 1.662-1.338 3-3 3h-7c-1.662 0-3 1.338-3 3v6.75c0 1.75 2 2.75 6 2.75z"
+     id="path27" />
+  <path
+     style="fill:#d72735"
+     d="m19.029 12c-0.673 0.448-1.029 1.032-1.029 1.75v2.25h12v-0.889c1.405 0.825 2.143 0.038 3-1.111h-1.59c0.358-0.748 0.59-1 0.59-2-0.903 0.153-1.6 0.906-1.9 1.549-0.049 0.005-0.087-0.001-0.127-0.004-0.064-0.622-0.396-1.141-1.002-1.545h-9.942z"
+     id="path29" />
+  <path
+     style="fill:#f9f9f9"
+     d="m21.41 13.09l-1.32 1.32a1 1 0 0 0 0.91 0.59 1 1 0 0 0 1 -1 1 1 0 0 0 -0.59 -0.91z"
+     id="path31" />
+  <g
+     transform="rotate(180 24 24)"
+     id="g33">
+    <path
+       style="fill:#d72735"
+       d="m19.029 12c-0.673 0.448-1.029 1.032-1.029 1.75v2.25h12v-0.889c1.405 0.825 2.143 0.038 3-1.111h-1.59c0.358-0.748 0.59-1 0.59-2-0.90267 0.15336-1.6001 0.90614-1.9004 1.5488-0.04898 0.0051-0.08671-0.0011-0.12695-0.0039-0.064-0.622-0.396-1.141-1.002-1.545z"
+       id="path35" />
+    <path
+       style="fill:#f9f9f9"
+       d="m21.41 13.09-1.3203 1.3203a1 1 0 0 0 0.91 0.59 1 1 0 0 0 1 -1 1 1 0 0 0 -0.59 -0.91z"
+       id="path37" />
+  </g>
+</svg>
